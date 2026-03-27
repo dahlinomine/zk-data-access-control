@@ -1,0 +1,6 @@
+[package]
+name = "zk-data-access-control"
+version = "0.1.0"
+edition = "2021"
+description = "Rust implementation of programmable data access using zero-knowledge encryption keys."
+license = "MIT"
